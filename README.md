@@ -182,7 +182,7 @@ Five data-backed recommendations delivered as a formal analyst memo:
 
 ## 👤 Author
 
-**Karan** — Data Analysis Assignment
+**OBAIS AQUIL** — Data Analysis Assignment
 Course: TuteDude | Python & Data Analysis Track
 
 ---
